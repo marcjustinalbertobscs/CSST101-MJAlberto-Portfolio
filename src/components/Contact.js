@@ -27,14 +27,14 @@ const Contact = () => {
         <svg width="28" height="28" fill="none" viewBox="0 0 24 24" stroke="#2563eb" strokeWidth="2"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>
       ),
       label: 'Email',
-      value: 'your.email@example.com'
+      value: 'albertomarcjustin@gmail.com'
     },
     {
       icon: (
         <svg width="28" height="28" fill="none" viewBox="0 0 24 24" stroke="#2563eb" strokeWidth="2"><path d="M22 16.92V19a2 2 0 0 1-2.18 2A19.72 19.72 0 0 1 3 5.18 2 2 0 0 1 5 3h2.09a2 2 0 0 1 2 1.72c.13 1.05.37 2.07.72 3.05a2 2 0 0 1-.45 2.11l-.27.27a16 16 0 0 0 6.29 6.29l.27-.27a2 2 0 0 1 2.11-.45c.98.35 2 .59 3.05.72A2 2 0 0 1 22 16.92z"/></svg>
       ),
       label: 'Phone',
-      value: '+1 (555) 123-4567'
+      value: '+63 67 513 7365'
     },
     {
       icon: (
